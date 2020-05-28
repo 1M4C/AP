@@ -1,8 +1,3 @@
-<!-- Note: This website is for bug reports, not general questions.
-Do not post issues about non-bitcoin versions of Electrum. -->
-[` RSI Copyright© - Void `](https://www.johannes-bauer.com/compsci/ecc)|
-[` Copyright 2019 - OΣR `](https://github.com/bitcoin/bitcoin/)|
-[` Secure Lıcance`](https://www.mcafeesecure.com/verify?host=ozturna.info)
 ***
 <?xml version="1.0" encoding="utf-8"?>
 <assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
