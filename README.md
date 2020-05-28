@@ -2,8 +2,8 @@
 INFO: "Horizon-TR"
 TITLE: 'BTC'
 LABEL: 'ETH'
-UNITS: 'ETC-NEM'
-ID:   Void
+UNITS: 'ETh-NEM'
+ID:   VOID
 ADV: 2.71828182846
 Industry: RSI
 TG: Trig-Radius
@@ -21,8 +21,7 @@ Do not post issues about non-bitcoin versions of Electrum. -->
 
 ***
 >O Σ R
->>INFORMATION
->>>HORIZONTAL
+>>I N F O 
 
 ***
 ***
